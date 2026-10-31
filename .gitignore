@@ -1,0 +1,18 @@
+# Generated delivery packages and local learner progress
+/release/
+/data/
+
+# Recoverable resource backups and screenshots
+/_resource-trash/
+/artifacts/
+
+# Dependencies, logs and local settings
+node_modules/
+*.log
+.env
+.env.*
+!.env.example
+/.codex/
+/.agents/
+.DS_Store
+Thumbs.db
