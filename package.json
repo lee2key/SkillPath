@@ -2,11 +2,17 @@
   "name": "skillpath-offline-learning",
   "private": true,
   "version": "0.1.0",
+  "engines": {
+    "node": ">=26"
+  },
   "scripts": {
     "admin": "node server.js --mode=admin --root=.",
     "learn": "node server.js --mode=learn --root=release",
     "release": "node scripts/build-release.js",
-    "package:win": "npx pkg server.js --targets node18-win-x64 --output release/SkillPath.exe",
-    "package:mac": "npx pkg server.js --targets node18-macos-x64 --output release/SkillPath"
+    "package:win": "pkg server.js --targets node26-win-x64 --output release/SkillPath.exe",
+    "package:mac": "pkg server.js --targets node26-macos-x64 --output release/SkillPath"
+  },
+  "devDependencies": {
+    "@yao-pkg/pkg": "6.24.0"
   }
 }
