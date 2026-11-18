@@ -1,0 +1,126 @@
+[
+  {
+    "file": "avatar.png",
+    "title": "Importing Avatar",
+    "source": "https://dev.epicgames.com/documentation/fortnite/making-a-sweater-with-marvelous-designer-in-unreal-editor-for-fortnite",
+    "imageUrl": "https://dev.epicgames.com/community/api/documentation/image/ae766a20-35e4-4a1b-8ed9-251c7afda8b5?resizing_type=fit",
+    "credit": "Epic Games — Making a Sweater with Marvelous Designer",
+    "accessed": "2026-11-02"
+  },
+  {
+    "file": "move-garment.png",
+    "title": "Moving Garments",
+    "source": "https://dev.epicgames.com/documentation/fortnite/making-a-sweater-with-marvelous-designer-in-unreal-editor-for-fortnite",
+    "imageUrl": "https://dev.epicgames.com/community/api/documentation/image/b7f6b1e4-333c-4407-a211-624130f0af94?resizing_type=fit",
+    "credit": "Epic Games — Making a Sweater with Marvelous Designer",
+    "accessed": "2026-11-02"
+  },
+  {
+    "file": "simulate.png",
+    "title": "Simulation Button",
+    "source": "https://dev.epicgames.com/documentation/fortnite/making-a-sweater-with-marvelous-designer-in-unreal-editor-for-fortnite",
+    "imageUrl": "https://dev.epicgames.com/community/api/documentation/image/d04a2729-b059-4810-b352-09d278cfb339?resizing_type=fit",
+    "credit": "Epic Games — Making a Sweater with Marvelous Designer",
+    "accessed": "2026-11-02"
+  },
+  {
+    "file": "garment.png",
+    "title": "Garment",
+    "source": "https://dev.epicgames.com/documentation/fortnite/making-a-sweater-with-marvelous-designer-in-unreal-editor-for-fortnite",
+    "imageUrl": "https://dev.epicgames.com/community/api/documentation/image/7e1aff41-0105-4db4-8086-bd9709892110?resizing_type=fit",
+    "credit": "Epic Games — Making a Sweater with Marvelous Designer",
+    "accessed": "2026-11-02"
+  },
+  {
+    "file": "edit-pattern.png",
+    "title": "Edit Pattern",
+    "source": "https://dev.epicgames.com/documentation/fortnite/making-a-sweater-with-marvelous-designer-in-unreal-editor-for-fortnite",
+    "imageUrl": "https://dev.epicgames.com/community/api/documentation/image/87e0cc16-8dc6-40da-8d53-e1298f3b0043?resizing_type=fit",
+    "credit": "Epic Games — Making a Sweater with Marvelous Designer",
+    "accessed": "2026-11-02"
+  },
+  {
+    "file": "unfold.png",
+    "title": "Unfold Symmetric Editing",
+    "source": "https://dev.epicgames.com/documentation/fortnite/making-a-sweater-with-marvelous-designer-in-unreal-editor-for-fortnite",
+    "imageUrl": "https://dev.epicgames.com/community/api/documentation/image/92abc6e2-9f89-4f0c-a3ee-d8957ad35a04?resizing_type=fit",
+    "credit": "Epic Games — Making a Sweater with Marvelous Designer",
+    "accessed": "2026-11-02"
+  },
+  {
+    "file": "segment-sewing.png",
+    "title": "Segment Sewing",
+    "source": "https://dev.epicgames.com/documentation/fortnite/making-a-sweater-with-marvelous-designer-in-unreal-editor-for-fortnite",
+    "imageUrl": "https://dev.epicgames.com/community/api/documentation/image/4e49a5fb-2021-4a15-be6c-28cbbad7db0e?resizing_type=fit",
+    "credit": "Epic Games — Making a Sweater with Marvelous Designer",
+    "accessed": "2026-11-02"
+  },
+  {
+    "file": "sewing-correct.png",
+    "title": "Connected Segments",
+    "source": "https://dev.epicgames.com/documentation/fortnite/making-a-sweater-with-marvelous-designer-in-unreal-editor-for-fortnite",
+    "imageUrl": "https://dev.epicgames.com/community/api/documentation/image/ea20e617-a3fd-414c-9893-942acd449952?resizing_type=fit",
+    "credit": "Epic Games — Making a Sweater with Marvelous Designer",
+    "accessed": "2026-11-02"
+  },
+  {
+    "file": "sewing-twisted.png",
+    "title": "Twisted Segments",
+    "source": "https://dev.epicgames.com/documentation/fortnite/making-a-sweater-with-marvelous-designer-in-unreal-editor-for-fortnite",
+    "imageUrl": "https://dev.epicgames.com/community/api/documentation/image/dd731a0b-3264-4fbd-ba93-8ba8feb3daf2?resizing_type=fit",
+    "credit": "Epic Games — Making a Sweater with Marvelous Designer",
+    "accessed": "2026-11-02"
+  },
+  {
+    "file": "extend-sleeve.png",
+    "title": "Extend Sleeves",
+    "source": "https://dev.epicgames.com/documentation/fortnite/making-a-sweater-with-marvelous-designer-in-unreal-editor-for-fortnite",
+    "imageUrl": "https://dev.epicgames.com/community/api/documentation/image/96ae30c7-0a79-461e-a4dc-af546213428c?resizing_type=fit",
+    "credit": "Epic Games — Making a Sweater with Marvelous Designer",
+    "accessed": "2026-11-02"
+  },
+  {
+    "file": "check-length.png",
+    "title": "Check Sewing Length",
+    "source": "https://dev.epicgames.com/documentation/fortnite/making-a-sweater-with-marvelous-designer-in-unreal-editor-for-fortnite",
+    "imageUrl": "https://dev.epicgames.com/community/api/documentation/image/dbffedc2-b9cf-4d9e-acd9-2f9eec551058?resizing_type=fit",
+    "credit": "Epic Games — Making a Sweater with Marvelous Designer",
+    "accessed": "2026-11-02"
+  },
+  {
+    "file": "edit-curvature.png",
+    "title": "Edit Curvature",
+    "source": "https://dev.epicgames.com/documentation/fortnite/making-a-sweater-with-marvelous-designer-in-unreal-editor-for-fortnite",
+    "imageUrl": "https://dev.epicgames.com/community/api/documentation/image/5692e3f4-ec2d-41e5-b093-5c035cee0c3c?resizing_type=fit",
+    "credit": "Epic Games — Making a Sweater with Marvelous Designer",
+    "accessed": "2026-11-02"
+  },
+  {
+    "file": "internal-lines.png",
+    "title": "Internal Lines",
+    "source": "https://dev.epicgames.com/documentation/fortnite/making-a-sweater-with-marvelous-designer-in-unreal-editor-for-fortnite",
+    "imageUrl": "https://dev.epicgames.com/community/api/documentation/image/6ca0ef1a-ca96-466c-9d11-4816a0e4cc69?resizing_type=fit",
+    "credit": "Epic Games — Making a Sweater with Marvelous Designer",
+    "accessed": "2026-11-02"
+  },
+  {
+    "file": "internal-tool.png",
+    "title": "Internal Polygon/Line",
+    "source": "https://dev.epicgames.com/documentation/fortnite/making-a-sweater-with-marvelous-designer-in-unreal-editor-for-fortnite",
+    "imageUrl": "https://dev.epicgames.com/community/api/documentation/image/32417847-8fa8-4f20-9d76-bf6420b28d92?resizing_type=fit",
+    "credit": "Epic Games — Making a Sweater with Marvelous Designer",
+    "accessed": "2026-11-02"
+  },
+  {
+    "file": "fabric-presets.jpg",
+    "imageUrl": "https://support.marvelousdesigner.com/hc/article_attachments/47438811408409",
+    "credit": "Marvelous Designer Help Center",
+    "accessed": "2026-11-02"
+  },
+  {
+    "file": "export-menu.png",
+    "imageUrl": "https://dev.epicgames.com/community/api/documentation/image/bc2c348b-d8df-48b7-8cec-37fda019ae4e?resizing_type=fit",
+    "credit": "Epic Games — Making a Sweater with Marvelous Designer",
+    "accessed": "2026-11-02"
+  }
+]
